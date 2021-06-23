@@ -1,2 +1,1 @@
-CSS_advanced
-a project trough the css advanced styles
+# 0x02-CSS_advanced 
